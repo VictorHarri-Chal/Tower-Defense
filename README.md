@@ -5,6 +5,10 @@
 ![MY_DEFENDER](my_defender.png)
 ![GAME_SCENE](game_scene.png)
 
+## Requirements
+* GCC
+* CSFML library
+
 ## Usage
 
 ``` zsh
