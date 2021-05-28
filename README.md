@@ -3,6 +3,8 @@
 ## A Tower Defense game coded in C with the CSML library
 
 ![MY_DEFENDER](my_defender.png)
+![GAME_SCENE](game_scene.png)
+
 ## Usage
 
 ``` zsh
